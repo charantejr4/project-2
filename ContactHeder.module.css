@@ -1,0 +1,14 @@
+.container{
+    max-width:100px;
+    margin:0 20px;
+
+}
+
+.para h1{
+    font-size:48px;
+    font-weight: 800;
+}
+
+.para p{
+    font-weight: 500; 
+}

@@ -1,0 +1,15 @@
+.Navigation ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap:40px;
+    font-weight:500;
+}
+
+
+
+.Navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+}
